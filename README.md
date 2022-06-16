@@ -107,7 +107,7 @@ The following resources are provisioned in the repository
 
 ## References
 
-Frontend Application - https://github.com/khaledosman/react-redux-realworld-example-app
-Backend Application - https://github.com/tanem/express-bookshelf-realworld-example-app
-EKS Module - https://github.com/terraform-aws-modules/terraform-aws-eks
-AWS Load Balancer Controller Installation - https://github.com/Young-ook/terraform-aws-eks/tree/main/modules/lb-controller
+- Frontend Application - https://github.com/khaledosman/react-redux-realworld-example-app
+- Backend Application - https://github.com/tanem/express-bookshelf-realworld-example-app
+- EKS Module - https://github.com/terraform-aws-modules/terraform-aws-eks
+- AWS Load Balancer Controller Installation - https://github.com/Young-ook/terraform-aws-eks/tree/main/modules/lb-controller
